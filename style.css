@@ -1,0 +1,9 @@
+body {
+  background-image: url(img/kilimanjaro-studioz-1tgSROQC9hM-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.banner {
+  margin-top: 150px;
+}
